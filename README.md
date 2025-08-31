@@ -31,7 +31,7 @@ Flow:
 ## Quick Start
 
 1. **Clone the repository**
-   git clone https://github.com/Toddthegod1/3VMProject.git
+   git clone https://github.com/Toddthegod1/3VMProjectPublic.git
    cd 3VMProject
 2. **Start the VMs**
     vagrant up
