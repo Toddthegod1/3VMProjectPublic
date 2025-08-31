@@ -1,0 +1,7 @@
+# Ignore Vagrant and VirtualBox files
+.vagrant/
+*.vbox
+*.vbox-prev
+*.vdi
+*.vmdk
+*.log
